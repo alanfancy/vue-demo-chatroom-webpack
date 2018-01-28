@@ -1,6 +1,6 @@
 本文件下的程序为半成品，目的在于验证技术，请勿直接用于开发生产！
 
-VUEJS +vue-socket.io+ WEBPACK 打包
+VUEJS +vue-socket.io+ WEBPACK 打包 静态预览
 
 
 在线视频直播+PPT课堂+聊天室
